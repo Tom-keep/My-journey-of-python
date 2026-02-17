@@ -1,5 +1,7 @@
 # My-journey-of-python
-Where there is a will   there is a way
+Where there is a will there is a way
+
+
 study from : https://github.com/jackfrued/Python-100-Days
 Just a draft for record learning experience
 lalalala~~
